@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /legal.html
+
+Sitemap: https://hyacinthbartendingservicesllc.shop/sitemap.xml
